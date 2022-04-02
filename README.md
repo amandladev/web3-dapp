@@ -1,5 +1,5 @@
 This proyect was made based on the amazing nft colection Karafuru
-visit Karafuru.io to see more
+visit *<ins>Karafuru.io</ins>* to see more
 
 ## Resources
 
