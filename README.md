@@ -11,4 +11,7 @@ visit *<ins>Karafuru.io</ins>* to see more
 #### @web3-react/injectorprovider 
 > Providers take JSON-RPC requests and return the response, so this resource allow us to use a web provider, like metamask, who is going to make this communication easier.
 
+#### You can see the smart contract made with solidity in this repo 
+https://github.com/sreyescurotto/erc721-nftMint-smartContract
+
 
